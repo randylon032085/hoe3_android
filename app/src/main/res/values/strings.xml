@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Night Tour Ticket</string>
+    <string name="tvCost">Compute Cost</string>
+    <string name="tvTitle">Night Sky Tour Tickets</string>
+    <string name="tvHint">Number of Tickets </string>
+
+    <string-array name="tvGroup">
+        <item>Select   </item>
+        <item>Weekdays</item>
+        <item>Weekend</item>
+
+    </string-array>
+</resources>
